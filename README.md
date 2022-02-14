@@ -62,12 +62,10 @@
 <br/>
 <br/>
   
-### Watch my contribution graph get eaten by the snake 🐍
-  <div > <br>
-    
+## Watch my contribution graph get eaten by the snake 🐍
     ![snake gif](https://github.com/sarahaoui/sarahaoui/blob/output/github-contribution-grid-snake.gif)
   
-  </div>
+ 
 
 
 
