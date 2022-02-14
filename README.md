@@ -65,7 +65,7 @@
 ### Watch my contribution graph get eaten by the snake 🐍
   <div > <br>
     
-    ![Snake animation](https://github.com/sarahaoui/sarahaoui/blob/output/github-contribution-grid-snake.svg)
+    ![snake gif](https://github.com/sarahaoui/sarahaoui/blob/output/github-contribution-grid-snake.gif)
   
   </div>
 
