@@ -6,10 +6,6 @@
  ##
  ## 🙋 About Me
 
-- 🌱 I’m currently learning **Javascript And Flutter.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
 - 📫 How to reach me **aouinasara77@gmail.com**
 
 - ⚡ Fun fact **I'am a Koreaboo and a Weeaboo💙.**
