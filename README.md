@@ -1,7 +1,7 @@
-<a href="#"><img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202202/338224_LxH4AyLG.png"></a>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sarah Aouina</h1>
-<h3 align="center">I'm a software engineer and a graphic designer from Algeria.</h3>
+<h4 align="center">I'm a software engineer and a graphic designer from Algeria.</h4>
 
  ##
  ## 🙋 About Me
@@ -16,18 +16,7 @@
  
   
   
- ## 🚀 Languages and Tools:
-<div style="display: inline_block">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
-</div>
   
   
 ## Connect with me:
@@ -62,8 +51,7 @@
 <br/>
 <br/>
   
-## Watch my contribution graph get eaten by the snake 🐍
-    ![snake gif](https://github.com/sarahaoui/sarahaoui/blob/output/github-contribution-grid-snake.gif)
+
   
  
 
