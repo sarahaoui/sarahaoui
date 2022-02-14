@@ -42,7 +42,7 @@
 <br/>
 <br/>5BCDEC
 
-<a href="https://github.com/sarahaoui/github-readme-activity-graph"><img alt="Sarah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sarahaoui&bg_color=0D1117&color=F25278&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/sarahaoui/github-readme-activity-graph"><img alt="Sarah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sarahaoui&bg_color=0D1117&color=FE7F9C&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
