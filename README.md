@@ -20,7 +20,6 @@
     <br>
   <a href="https://www.instagram.com/sarah_design_a" target="_blank"><img align="center" alt="Rafa-Js" height="30" width="30"  src="https://raw.githubusercontent.com/mishmanners/MishManners/master/socials/instagram.png"></a>
   <a href="https://www.behance.net/srh6" target="_blank"><img align="center" alt="Rafa-HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg"></a>
-  <a href="https://www.linkedin.com/in/sara-aouina-89b841204/" target="_blank"><img align="center" alt="Rafa-CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 </div>
   
    ##
