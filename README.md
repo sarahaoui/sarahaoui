@@ -6,14 +6,7 @@
  ##
  ## 🙋 About Me
 
-- 📫 How to reach me **aouinasara77@gmail.com**
-
-- ⚡ Fun fact **I'am a Koreaboo and a Weeaboo💙.**
- 
-  
-  
-
-  
+- 📫 How to reach me **aouinasara77@gmail.com**  
   
 ## Connect with me:
  <div style="display: inline_block">
