@@ -1,7 +1,7 @@
 
 <img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"  />
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sarah Aouina</h1>
-<h4 align="center">I'm a software engineer and a graphic designer from Algeria.</h4>
+<h1 align="center">Hi ✌️, I'm Sarah Aouina</h1>
+<h4 align="center">I'm a software engineer from Algeria.</h4>
 
  ##
  ## 🙋 About Me
