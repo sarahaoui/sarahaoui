@@ -1,17 +1,15 @@
 
-<img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"  />
 <h1 align="center">Hi ✌️, I'm Sarah Aouina</h1>
-<h4 align="center">I'm a software engineer from Algeria.</h4>
+<h4 align="center">I'm a software engineer and UI/UX designer from Algeria.</h4>
 
  ##
  ## 🙋 About Me
 
-- 📫 How to reach me **aouinasara77@gmail.com**  
+- 📫 How to reach me **sarahaouinaa@.com**  
   
 ## Connect with me:
  <div style="display: inline_block">
     <br>
-  <a href="https://www.instagram.com/sarah_design_a" target="_blank"><img align="center" alt="Rafa-Js" height="30" width="30"  src="https://raw.githubusercontent.com/mishmanners/MishManners/master/socials/instagram.png"></a>
   <a href="https://www.behance.net/srh6" target="_blank"><img align="center" alt="Rafa-HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg"></a>
 </div>
   
