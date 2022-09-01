@@ -1,7 +1,7 @@
 
   <h2 align="center">Aouina Sarah</h2>
  <p align="center">
- Software enginner & UI UX visual interaction designer
+ Software Enginner & UI UX Visual Interaction Designer
  </p>
 
    ##
