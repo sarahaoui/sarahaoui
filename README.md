@@ -1,6 +1,8 @@
 
-
-![github_Plan de travail 1](https://user-images.githubusercontent.com/58111836/185268006-fa1a30bd-410c-4904-ac78-eb027a6afe5c.jpg)
+  <h2 align="center">Aouina Sarah</h2>
+ <p align="center">
+ Software enginner & UI UX visual interaction designer
+ </p>
 
    ##
  <p align="center">
