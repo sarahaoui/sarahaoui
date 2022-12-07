@@ -11,22 +11,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/sarahaoui/github-readme-stats"><img alt="Sarah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sarahaoui&show_icons=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/sarahaoui/github-readme-stats"><img alt="Sarah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahaoui&langs_count=8&count_private=true&layout=compact&theme=apprentice&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/sarahaoui/github-readme-activity-graph"><img alt="Sarah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sarahaoui&bg_color=0D1117&color=ffffff&line=e08327&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Watch my contribution graph get eaten by the snake 🐍
 
